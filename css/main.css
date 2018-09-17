@@ -1,0 +1,99 @@
+.wrapper{
+	width:450px;
+	height:500px;
+	border: 1px solid black;
+	margin-left:730px;
+	margin-top: 210px;
+	border:0px;
+	box-shadow: 0.5px 1.5px 0.5px 1.5px #dddddd;
+	border-radius: 7px;
+}
+
+.logo{
+	width:70px;
+	height:25px;
+	margin-left:180px;
+	margin-top:45px;
+} 
+
+.prijava{
+	font-family:arial, sans-serif;
+	font-size:22px;
+	margin-left:180px;
+	margin-top:15px;
+	font-weight: 200;
+}
+
+.nastavi{
+	font-family:arial, sans-serif;
+	font-size:17px;
+	margin-left:147px;
+	margin-top:15px;
+	font-weight: 200;
+	color:#606060;
+}
+
+.email{
+	font-family:arial, sans-serif;
+	font-size:16px;
+	margin-top:10px;
+	margin-left:35px;
+	width:370px;
+	height:30px;
+	color:grey;
+	border:0px;
+	box-shadow:0px 2px 0px #e5e5e5;
+}
+
+.link,a{
+	font-family: arial, sans-serif;
+	font-size:14px;
+	color:#0087ef;
+	margin-top: 28px;
+	margin-left:18px;
+	text-decoration: none;
+	font-weight:600;
+
+}
+
+.tekst{
+	font-family: arial, sans-serif;
+	font-size:16px;
+	color:gray;
+	margin-top: 45px;
+	margin-left:35px;
+	text-decoration: none;
+}
+
+.link1{
+	font-family: arial, sans-serif;
+	font-size:14px;
+	color:#0087ef;
+	margin-top: 45px;
+	margin-left:18px;
+	text-decoration: none;
+	font-weight:600;
+}
+
+.gumb{
+	margin-right:35px;
+	margin-top:-25px;
+	background-color: #0087ef;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius:5px; 
+    height:37px;
+    width:90px;
+    float:right;
+}
+
+.gumb:hover{
+	background-color: #2c9ff7;
+    color: white;
+}
